@@ -9,13 +9,13 @@ Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold tex
 
 Italic	* * or _ _  Command+I (Mac) or Ctrl+I (Windows/Linux)	_This text is italicized_
 
-Strikethrough	~~ ~~	None	~~This was mistaken text~~
+Strikethrough	~~ ~~	~~This was mistaken text~~
 
-Bold and nested italic	** ** and _ _	None	**This text is _extremely_ important**
+Bold and nested italic	** ** and _ _	**This text is _extremely_ important**
 
-All bold and italic	*** ***	None	***All this text is important***
+All bold and italic	*** ***	***All this text is important***
 
-Subscript	<sub> </sub>	None	<sub>This is a subscript text</sub>
+Subscript	<sub> </sub>	<sub>This is a subscript text</sub>
 
-Superscript	<sup> </sup>	None	<sup>This is a superscript text</sup>	
+Superscript	<sup> </sup>	<sup>This is a superscript text</sup>	
  
