@@ -12,3 +12,4 @@ Bold and nested italic	** ** and _ _	None	**This text is _extremely_ important**
 All bold and italic	*** ***	None	***All this text is important***
 Subscript	<sub> </sub>	None	<sub>This is a subscript text</sub>
 Superscript	<sup> </sup>	None	<sup>This is a superscript text</sup>	
+ 
