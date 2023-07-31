@@ -1,6 +1,6 @@
-# # for a A first-level heading
-## ## for A second-level heading
-### ### for A third-level heading
+# # for a a first-level heading
+## ## for a second-level heading
+### ### for a third-level heading
 
 
 Style	Syntax	Keyboard shortcut	Example	Output
